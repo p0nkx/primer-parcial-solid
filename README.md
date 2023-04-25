@@ -6,5 +6,5 @@ Indique qué principio/s SOLID y/o buenas prácticas del desarrollo de software 
 #Los principios SOLID que no se cumplen son:
 
 	-Liskvo Sustitución
-	-Pincipio de Responsabilidad Simplificada
+	-Separación de responsabilidades
 	
